@@ -113,3 +113,24 @@ body {
     font-weight: 700;
     margin: 0;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 100px 330px;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    margin: 0;
+}
+
+.quote-author {
+    text-align: right;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
+    color: #1F2937;
+}
